@@ -95,3 +95,4 @@ Hurray! You successfully made a contribution! 🎉
 
 ## <ins>Hacktoberfest community<ins>
   - [Bishal Roy](https://github.com/bishalr0y)
+  - [Kool endu](https://github.com/kulendu)
