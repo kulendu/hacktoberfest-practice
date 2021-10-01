@@ -1,6 +1,11 @@
 # Hacktoberfest Practice Pull Requests
+---
+![image](https://user-images.githubusercontent.com/56751927/135567518-e74e540a-b030-4505-a2f8-610ddb160953.png)
+---
 
-Repo for you to raise a Pull Request for practice.
+
+
+✨Repo for you to raise a Pull Request for practice.
 
 **Just add your name to the alphabetical list and optionally, a link to your GitHub account (In alphabetical order below your letter too)**
 
